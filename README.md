@@ -1,20 +1,31 @@
-# 👋 Olá, eu sou José Cezar Ferreira Neto
+# 👋 Olá, eu sou José Cezar Ferreira
+
+🎯 Fisioterapeuta com experiência hospitalar  
+💻 Estudante de Cibersegurança  
+🚀 Em transição de carreira para a área de Tecnologia  
+
+---
 
 ## 🚀 Sobre mim
-Fisioterapeuta com experiência hospitalar e atualmente em transição de carreira para a área de tecnologia, com foco em Cibersegurança.
+Atualmente estou migrando da área da saúde para a tecnologia, com foco em **Cibersegurança**.  
 
-## 💻 Objetivo
-Atuar na área de tecnologia com foco em segurança da informação.
+Tenho base em **lógica de programação** e já estudei **Java**, além de estar aprofundando meus conhecimentos em **segurança da informação e redes**.
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+- Java  
+- Git e GitHub  
+- Lógica de Programação  
+
+---
 
 ## 📚 Atualmente estudando
-- Cibersegurança
-- Java
-- Lógica de programação
-- Redes de computadores
+- Cibersegurança  
+- Redes de Computadores  
+- Segurança da Informação  
 
-## 🔧 Tecnologias
-- Java
-- Git e GitHub
+---
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/jos%C3%A9-cezar-ferreira-neto/
+- LinkedIn: (coloca depois)
